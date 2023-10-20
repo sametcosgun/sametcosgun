@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+[<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />](https://media.tenor.com/2JDqYLPALTQAAAAC/cyber-hack.gif)
 
 - 🔭 I’m currently working as a computer operator.
 - 🌱 I’m currently learning Python.
