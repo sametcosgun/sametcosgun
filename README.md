@@ -7,7 +7,7 @@
 - 👯  I’m looking to collaborate with other Python developer.
 - 🤔 I’m looking for help with Python developer.
 - <img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" /> samet.cosgun@yahoo.com
-- <img align="left" height="24" width="24" src="https://cdn4.iconfinder.com/data/icons/landing-page/100/landing_page-16-1024.png" /> 
+- <img align="left" height="24" width="24" src="https://cdn4.iconfinder.com/data/icons/landing-page/100/landing_page-16-1024.png" /> chess.com ID: samet_co
 
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" /> I have PCEP  [Certified Entry-Level Python Programmer]
