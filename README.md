@@ -1,4 +1,4 @@
-### Hi there 👋
+### Bonjour 👋
 
 <img align="right" alt="GIF" src="https://forumsmile.net/u/2/8/6/286bb348000aecc59286d74ac3eefa31.gif?raw=true" width="500" height="320" />
 
